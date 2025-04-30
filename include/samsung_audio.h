@@ -1,4 +1,3 @@
-@@ -1,79 +0,0 @@
 /*
  * Copyright (C) 2017 The LineageOS Project
  *
